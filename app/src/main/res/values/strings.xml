@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InternshipRecommendationInterface</string>
+
+    <!-- Role Selection -->
+    <string name="intern_match">InternMatch</string>
+    <string name="connect_talent">Connect talent with opportunity</string>
+    <string name="student">Student</string>
+    <string name="student_role_description">Upload your resume and discover matched internship opportunities</string>
+    <string name="recruiter_hr">Recruiter/HR</string>
+    <string name="recruiter_role_description">Post opportunities and review talented applicants</string>
+
+    <!-- Student Dashboard -->
+    <string name="student_dashboard">Student Dashboard</string>
+    <string name="your_resume">Your Resume</string>
+    <string name="upload_resume">Upload Resume</string>
+    <string name="upload_resume_description">Get personalized job matches based on your skills</string>
+    <string name="matched_jobs">Matched Jobs</string>
+    <string name="matches_count">%d matches</string>
+
+    <!-- Recruiter Dashboard -->
+    <string name="recruiter_dashboard">Recruiter Dashboard</string>
+    <string name="post_new_job">Post New Job</string>
+    <string name="post_new_job_description">Create a new internship opportunity</string>
+    <string name="applications">Applications</string>
+    <string name="applications_total">%d total</string>
+
+    <!-- Post New Job -->
+    <string name="job_title_label">Job Title *</string>
+    <string name="job_title_hint">e.g. Software Engineering Intern</string>
+    <string name="company_label">Company *</string>
+    <string name="company_hint">e.g. TechCorp</string>
+    <string name="company_name_label">Company Name *</string>
+    <string name="job_description_label">Job Description *</string>
+    <string name="required_skills_label">Required Skills *</string>
+    <string name="required_skills_hint">e.g. React, TypeScript, Redux</string>
+    <string name="location_label">Location</string>
+    <string name="location_hint">e.g. San Francisco, CA or Remote</string>
+    <string name="job_type_label">Job Type *</string>
+    <string name="job_type_full_time">Full-time</string>
+    <string name="job_type_part_time">Part-time</string>
+    <string name="job_type_internship">Internship</string>
+    <string name="job_type_contract">Contract</string>
+    <string name="salary_range_label">Salary Range</string>
+    <string name="salary_range_hint">e.g. $25-35/hr</string>
+    <string name="description_label">Description *</string>
+    <string name="description_hint">Describe the role, responsibilities, and qualifications.</string>
+    <string name="create_job">Create Job</string>
+
+    <!-- Job Details -->
+    <string name="job_details">Job Details</string>
+    <string name="apply_now">Apply Now</string>
+    <string name="match_percentage">%d%% Match</string>
+    <string name="description">Description</string>
+    <string name="requirements">Requirements</string>
+    <string name="requirements_placeholder">• 1+ years of experience in software development\n• Experience with web technologies\n• Strong problem-solving skills</string>
+    <string name="posted_date_placeholder">Posted 28/10/2025</string>
+
+    <!-- Application Details -->
+    <string name="application_details">Application Details</string>
+    <string name="reject">Reject</string>
+    <string name="shortlist">Shortlist</string>
+    <string name="experience">Experience</string>
+    <string name="experience_placeholder">1 year freelance experience</string>
+    <string name="skills">Skills</string>
+    <string name="resume">Resume</string>
+
+    <!-- Common -->
+    <string name="back">Back</string>
+</resources>
